@@ -1,0 +1,1 @@
+Aquest és el primer projecte de Sergi Contreras
